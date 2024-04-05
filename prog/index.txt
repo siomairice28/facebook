@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Facebook</title>
+</head>
+<body>
+  <main>
+    <header>
+      <div id="profile-header" colspan="2">
+        <img src="fblogo.png" alt="Facebook" width="40" height="30"> <input type="text" placeholder="Search.." name="search"> <center>  <a href="#about">Home </a>  <a href="#about">Friends</a>  <a href="#about">Watch</a>  <a href="#about">Market place</a>  <a href="#about">Gaming</a>
+        <br>
+        <center> <img src="hanni.jpg" width="200" height="200">
+        <h1>Yuri Camino</h1>
+        <button>Add Friend</button>
+        <button>Follow</button>
+        <button>Message</button>
+      </div>
+    </header>
+    <div id="profile-details">
+      <table>
+        <tr>
+          <td id="about" rowspan="2">
+            <h2>About</h2>
+            <p>John earl euri A camino BSIT-2A </p> 
+	<br>	
+	   <br>
+	
+	  <tr>
+	 <br>
+	<br>
+          <center> <img src="timeline.png" width="700" height="500"
+	<br>
+	<br>
+	<br>
+	     <td id="friends" colspan="2">
+            <h2>Friends</h2>
+            <div class="yoma">
+              <img src="frend1.jpg" alt="Friend 1"> <p><a href="https://www.facebook.com/mayuumaaaaa">yoma </a></p>
+            </div>
+            <div class="lear">
+              <img src="frend2.jpg" alt="Friend 2">
+              <p>lear </p>
+            </div>
+            <div class="idsil">
+              <img src="frend3.jpg" alt="Friend 3"> <p><a href="https://www.facebook.com/Rdgz02">idsil</a></p>
+            </div>
+          </td>
+        </tr>
+          </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </main>
+</body>
+</html>
